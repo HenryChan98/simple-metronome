@@ -1,0 +1,22 @@
+.MetronomeApp {
+  text-align: center;
+  max-width: 375px;
+  margin: 0 auto;
+  padding: 30px;
+  border: ridge #ccc;
+  border-width: 6px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+  
+}
+
+.bpm-slider input {
+  width: 60%;
+  margin: 10px;
+}
+
+.MetronomeApp button {
+  background:blue;
+  border-radius: 8px;
+  color: white;
+}
+
